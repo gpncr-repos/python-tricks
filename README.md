@@ -1,2 +1,2 @@
-# python_tricks
+ python_tricks
 Полезные jupyter-ноутбуки
